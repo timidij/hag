@@ -1,0 +1,71 @@
+body{
+    display: flex;
+    
+}
+.lay{
+    /* text-align: center; */
+    
+
+    width: 60vw;
+    background-color: rgb(244, 247, 246);
+    height: 70vh;
+
+    
+}
+.sign{
+    margin-bottom: 40px;
+    display: flex;
+}
+
+p{
+    /* text-align: left; */
+}
+form{
+    
+    margin: 10%;
+}
+
+.empty{
+    height:70vh;
+    width: 40%;
+    display: flex;
+    background-color: blue;
+
+}
+.flow{
+    border-radius: 15px;
+    /* margin-right: 30%; */
+    height: 2.5em;
+    width: 7em;
+}
+.flow2{
+    margin-right: 65%;
+}
+
+.crave{
+    width: 100%;
+    background-color: black;
+    height: 40px;
+
+}
+
+
+.sub{
+    border-radius: 15px;
+    height: 2.4em;
+    width: 8em;
+    text-align: center;
+    font-size: 20px;
+}
+
+.mail{
+    width: 100%;
+    border-radius: 20px;
+    height: 25px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.sub_btn{
+    text-align: center;
+}
+
